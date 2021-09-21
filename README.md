@@ -1,4 +1,2 @@
-<p align="center">
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=picopicodevil&count_private=true&show_icons=true&include_all_commits=true" />
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=picopicodevil&layout=compact&hide=makefile" />
-</p>
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="github stats(picopicodevil)" align="center" src="https://github-readme-stats.vercel.app/api?username=picopicodevil&count_private=true&show_icons=true&include_all_commits=true" /></a> | <a href="https://github.com/anuraghazra/convoychat"><img alt="Top Langs(picopicodevil)" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=picopicodevil&layout=compact&hide=makefile" /></a> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
